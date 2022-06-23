@@ -1,4 +1,6 @@
 # Tech Company Website
 
-responsive tech company website
-usage of react hooks, react router dom, react scroll
+full responsive tech company website
+1. usage of react hooks
+2. react router dom
+3.  react scroll
